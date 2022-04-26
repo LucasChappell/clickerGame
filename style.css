@@ -1,0 +1,76 @@
+#button {
+    position: absolute;
+    top: 50vh;
+    left: 49.25vw;
+    width: 50px;
+    height: 50px;
+    background-color: grey;
+}
+#counter {
+    position: absolute;
+    font-size: 20px;
+    top: 20vh;
+    left: 50vw;
+}
+#autoClicker {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 50vh;
+    left: 40vw;
+    font-size: 10px;
+    overflow-wrap: break-word;
+}
+#autoCounter {
+    position: absolute;
+    top: 48vh;
+    left: 41vw;
+}
+#autoPrice{
+    position: absolute;
+    top: 56vh;
+    left: 39.5vw;
+}
+#background{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 100vh;
+}
+#upgradeClicker {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 50vh;
+    left: 60vw;
+    font-size: 10px;
+    overflow-wrap: break-word;
+}
+#upgradeCounter {
+    position: absolute;
+    top: 48vh;
+    left: 61vw;
+}
+#upgradePrice{
+    position: absolute;
+    top: 56vh;
+    left: 59vw;
+}
+#flash {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+
+}
+#prestige{
+    position: absolute;
+    left: 44vw;
+    top: 5vh;
+    width: 200px;
+    height: 100px;
+
+}
